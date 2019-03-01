@@ -5,3 +5,4 @@ Index:
 1. kod.txt
 2. plik1.txt
 3. plik2.txt
+4. plik3.txt
