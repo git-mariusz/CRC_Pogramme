@@ -1,0 +1,1 @@
+To jest główny plik kodu.
