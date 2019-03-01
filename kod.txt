@@ -1,1 +1,1 @@
-To jest główny plik kodu.
+To jest przykładowy plik z kodem.
